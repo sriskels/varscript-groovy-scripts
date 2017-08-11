@@ -1,0 +1,10 @@
+name: test
+version: 1.0
+author: kukimonster :D
+script: "Inuun:varscript-groovy-scripts:gchat"
+sources:
+- "https://raw.githubusercontent.com/sriskels/varscript-groovy-scripts/master/test/src/main.groovy"
+github: "github.com/sriskels/varscript-groovy-scripts/"
+description: 
+- "{PREFIX} &eSkrypt testowy."
+- "{PREFIX} &eDodaje jedynie komende /hello"
