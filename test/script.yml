@@ -1,7 +1,7 @@
 name: test
-version: 1.0
+version: 1.1
 author: kukimonster :D
-script: "Inuun:varscript-groovy-scripts:gchat"
+script: "sriskels:varscript-groovy-scripts:test"
 sources:
 - "https://raw.githubusercontent.com/sriskels/varscript-groovy-scripts/master/test/src/main.groovy"
 github: "github.com/sriskels/varscript-groovy-scripts/"
